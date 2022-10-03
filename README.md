@@ -1,7 +1,7 @@
 # RANDOM-QUOTE-GENERATOR
 ### An app that displays random famous quotes every time a button is pressed in this project. A quote from a prominent athlete, politician, or historical figure is displayed:
 To finish this project, I needed  fundamental JavaScript syntax, such as variables, loops, and object literals.
-
+#himanshu
 ## DESCRIPTION
 For the implementation of javascript and how they three-run and complement one other, I constructed a basic web application utilising JavaScript, CSS, and HTML. I created a random quote generator that shows the user a different quotation every time they touch a button. It comprises of an HTML file that will serve as the project's foundation, similar to a skeleton that will store all of the meat (content). After that, I linked the JavaScript file to the HTML content so that the JavaScript code could interact with it. We'll have numerous quotes, and each one will be chosen at random, therefore storing multiple strings in an array is the best option.to retrieve a random quote from an array it must produce a random number every time the user clicks on the button.
 I placed multiple quotes in an array separated by comma defined a variable called “quotes” and set it equal to an array full of the quotes that I’ve chosen. A math function will generate a random decimal number and multiply it by a whole number.
